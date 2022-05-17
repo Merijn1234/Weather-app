@@ -10,7 +10,7 @@ WIDTH=800
 ############################# function #####################################################################
 
 def weather(city):
-    key='48a90ac42caa09f90dcaeee4096b9e53'
+    key=''
     #print('Please Wait')
     show['text'] = 'Please wait . . . .'
     try:
